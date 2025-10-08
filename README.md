@@ -17,7 +17,7 @@ The study encompassed a range of FF designs, from classic to more advanced, incl
 ## Methodology
 The research followed a structured, three-step methodology:
 1.  **Design & Layout**: Each flip-flop was designed at the transistor level.
-2.  [cite_start]**Simulation Environment**: A standardized testbench was created in SPICE to subject each FF to identical test conditions, including varying clock frequencies, data activity patterns, and output loads. 
+2. **Simulation Environment**: A standardized testbench was created in SPICE to subject each FF to identical test conditions, including varying clock frequencies, data activity patterns, and output loads. 
 3.  **Data Analysis**: The designs were rigorously benchmarked against the following metrics:
     - **Average Power Consumption**: The primary metric for comparison.
     - **Propagation Delay (Clock-to-Q)**: A measure of performance.
